@@ -6,7 +6,7 @@ Add [autocorrect](https://github.com/huacnlee/autocorrect) support for [ALE](htt
 ## Installation
 
 If you don't have a preferred installation method, I recommend
-installing [vim-plug](https://github.com/junegunn/vim-plug), and
+install [vim-plug](https://github.com/junegunn/vim-plug), and
 then add following codes.
 
 ```vim
@@ -33,4 +33,3 @@ let g:ale_fixers = { 'python': ['autocorrect'] }
 ## License
 
 This project under MIT license.
-
